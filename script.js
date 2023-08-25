@@ -95,3 +95,5 @@ btnHold.addEventListener("click", function () {
 
 // NEW GAME BUTTON FUNCTION
 btnNew.addEventListener("click", init);
+
+// ------------END--------------
